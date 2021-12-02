@@ -398,6 +398,8 @@ image_urls = [
     'https://i.imgur.com/HauPHU8.png',
     'https://i.imgur.com/0GL9nx3.png',
     'https://i.imgur.com/FOd9ABF.png',
+    'https://i.imgur.com/eo0mvuM.jpg',
+    'https://i.imgur.com/E2z6AY7.png',
 ]
 
 
