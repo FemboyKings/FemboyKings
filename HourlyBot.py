@@ -358,6 +358,13 @@ image_urls = [
     'https://i.imgur.com/ecOwbSK.png',
     'https://i.imgur.com/wH139Iv.png',
     'https://i.imgur.com/GM19lbC.png',
+    'https://i.imgur.com/9hCMDMv.jpg',
+    'https://i.imgur.com/pfykspb.jpg',
+    'https://i.imgur.com/oepkknA.jpg',
+    'https://i.imgur.com/vDs6miv.jpg',
+    'https://i.imgur.com/918yxLA.jpg',
+    'https://i.imgur.com/8eMU2EF.jpg',
+    'https://i.imgur.com/t3vCvhr.mp4',
 ]
 
 
