@@ -2011,7 +2011,7 @@ image_urls = [
     'https://i.imgur.com/yDoQOAr.jpg',
     'https://i.imgur.com/XpJ8e53.jpg',
     'https://i.imgur.com/qNjL7ew.jpg',
-    'https://i.imgur.com/qNjL7ew.jpg',
+    'https://i.imgur.com/I0HTsGH.jpg',
     'https://i.imgur.com/lk7iQvn.jpg',
 ]
 
