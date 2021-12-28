@@ -39,7 +39,7 @@ image_urls = [
     'https://i.imgur.com/10Fk0Or.png',
     'https://i.imgur.com/vIAIp7U.jpg',
     'https://i.imgur.com/5NTvwUZ.png',
-    'https://i.imgur.com/5NTvwUZ.png',
+    'https://i.imgur.com/PrOT3Y1.png',
     'https://i.imgur.com/StEg60X.jpg',
     'https://i.imgur.com/4HhiVyW.png',
     'https://i.imgur.com/N1XOpb3.png',
