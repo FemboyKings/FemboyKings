@@ -904,7 +904,6 @@ image_urls = [
     'https://i.imgur.com/OIPIrPk.png',
     'https://i.imgur.com/yaIM5hQ.png',
     'https://i.imgur.com/xmfGJFh.png',
-    'https://i.imgur.com/mqJ0Ai3.png',
     'https://i.imgur.com/rhv8PUR.png',
     'https://i.imgur.com/DkSWTyg.png',
     'https://i.imgur.com/0mheTCP.png',
