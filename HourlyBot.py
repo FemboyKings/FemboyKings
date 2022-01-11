@@ -68,7 +68,7 @@ image_urls = [
     'https://i.imgur.com/3WJarur.jpg',
     'https://i.imgur.com/RqYr1JQ.jpg',
     'https://i.imgur.com/HSyxYd2.jpg',
-    'https://i.imgur.com/HSyxYd2.jpg',
+    'https://i.imgur.com/owmzS7y.jpg',
     'https://i.imgur.com/7G6X99o.jpg',    
     'https://i.imgur.com/VBoG7Lc.png',
     'https://i.imgur.com/6wWHzJV.png',
