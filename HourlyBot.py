@@ -5437,7 +5437,7 @@ image_urls = [
 
 
 
-@run_async
+run_async
 def hourly():
     while True:
         while datetime.datetime.utcnow().minute == 0 and datetime.datetime.utcnow().second == 0:
