@@ -5680,7 +5680,7 @@ image_urls = [
 run_async=True 
 def hourly():
     while True:
-        while datetime.datetime.utcnow().minute == 0 and datetime.datetime.utcnow().second == 0:
+        if datetime.datetime.utcnow().minute == 0 and datetime.datetime.utcnow().second == 0:
             image_url = choice(image_urls)
             bot.send_photo(config.get('channel'), image_url)
             time.sleep(1)
