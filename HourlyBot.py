@@ -3314,7 +3314,6 @@ image_urls = [
     'https://i.imgur.com/tbWqGO6.jpg',
     'https://i.imgur.com/ulY3Mo9.jpg',
     'https://i.imgur.com/Uw7tW68.jpg',
-    'https://i.imgur.com/Ln0j5MV.jpg',
     'https://i.imgur.com/zbMJu6s.jpg',
     'https://i.imgur.com/JXzuQGR.jpg',
     'https://i.imgur.com/QzJzckz.jpg',
