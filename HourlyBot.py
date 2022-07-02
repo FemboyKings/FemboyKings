@@ -11,6 +11,14 @@ from random import choice
 config = toml.load('config.toml')
 bot = telegram.Bot(config.get('token'), request=Request(con_pool_size=70, connect_timeout=120))
 image_urls = [
+'https://i.imgur.com/cjuWCjl.jpg',
+'https://i.imgur.com/r75hpt8.jpg',    
+'https://i.imgur.com/97gMTNT.jpg',
+'https://i.imgur.com/s2PCVWu.jpg',    
+'https://i.imgur.com/0VCncNH.jpg',
+'https://i.imgur.com/rWTiRis.jpg',    
+'https://i.imgur.com/p3jwCKA.jpg',    
+'https://i.imgur.com/SoTFFH9.jpg',        
 'https://i.imgur.com/QNwAZTN.jpg',
 'https://i.imgur.com/L7aVhWz.jpg',
 'https://i.imgur.com/w0SCtcK.jpg',
