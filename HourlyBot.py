@@ -1,6 +1,7 @@
 import telegram
+from telegram.ext.dispatcher import run_async
 from telegram.utils.request import Request
-from telegram.ext import Application
+from telegram.ext import Updater, Dispatcher
 import datetime
 import toml
 import time
