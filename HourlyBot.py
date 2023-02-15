@@ -4,7 +4,7 @@ import datetime
 import toml
 import time
 from random import choice
-from telegram.utils.request import Request
+from telegram-util.request import Request
 
 config = toml.load('config.toml')
 bot = telegram.Bot(config.get('token'), request=Request(con_pool_size=70, connect_timeout=120))
