@@ -1,4 +1,3 @@
-pip install -U python-telegram-bot
 import telegram
 from telegram.ext.Application import run_async
 from telegram.utils.request import Request
