@@ -4815,7 +4815,6 @@ image_urls = [
 'https://i.imgur.com/qcpR8ZZ.jpg',
 'https://i.imgur.com/kzKlYy8.jpg',
 'https://i.imgur.com/riYRkcE.jpg',
-'https://i.imgur.com/ZSfE72v.jpg',
 'https://i.imgur.com/oeMIMh7.jpg',
 'https://i.imgur.com/afBAfpp.jpg',
 'https://i.imgur.com/nAuaxZj.jpg',
