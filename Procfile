@@ -1,4 +1,2 @@
-worker: python3 HourlyBot.py
-python-telegram-bot
-datetime
+worker: python-telegram-bot==20.1
 
